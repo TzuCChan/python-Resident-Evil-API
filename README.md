@@ -1,2 +1,3 @@
-# python-flask-Resident-Evil
+# python-flask-Resident-Evil-API
+
 Project 9
